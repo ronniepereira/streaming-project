@@ -25,6 +25,7 @@
     "@nestjs/platform-express": "^10.0.0",
     "@prisma/client": "^5.11.0",
     "@types/multer": "^2.0.0",
+    "fs": "^0.0.1-security",
     "multer": "^2.0.1",
     "prisma": "^5.11.0",
     "reflect-metadata": "^0.2.0",

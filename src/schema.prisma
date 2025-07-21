@@ -12,9 +12,8 @@ model Video {
     title     String
     description  String
     url  String
-    sizeInKb Int
     thumbnailUrl String?
-    videoUrl String
+    sizeInKb Int
     duration Int
     createdAt DateTime @default(now())
     updatedAt DateTime @updatedAt
